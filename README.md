@@ -3,6 +3,8 @@
 ### 修改了主页上的日期和时间显示
 ![~~{AMPI86 0_XD1)N@(KO_L](https://user-images.githubusercontent.com/39250628/209522547-b8b2f7d4-7ba6-4cc7-bb7a-d58d8df65707.png)
 
+![image](https://user-images.githubusercontent.com/39250628/209523243-6c05e1ce-9964-4cfe-8af9-68e8aa68e6ce.png)
+
 # **本项目目前停止更新，如果以后有时间的话会考虑用WebComponent重写一下**
 # **新版本地址：https://github.com/virzs/Search-Next**
 
