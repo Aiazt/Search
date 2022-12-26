@@ -52,10 +52,6 @@ https://search.virs.xyz
 
 ![](http://imgs.virs.xyz/新拟态ToDo.png)
 
-**弹窗添加数据：**
-
-![](http://imgs.virs.xyz/新拟态弹窗.png)
-
 **以及更多... ...**
 
 ### 联系方式：
