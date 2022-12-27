@@ -5,6 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/39250628/209523243-6c05e1ce-9964-4cfe-8af9-68e8aa68e6ce.png)
 
+# **原项目地址：https://github.com/virzs/Search
 # **本项目目前停止更新，如果以后有时间的话会考虑用WebComponent重写一下**
 # **新版本地址：https://github.com/virzs/Search-Next**
 
